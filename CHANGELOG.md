@@ -12,4 +12,4 @@ FfcrmMailchimp CHANGELOG
 - Flattened Member module into WebhookParams
 
 2023-05 v2.0.0
-- Major upgrade to Rails 6.1 / FatFreeCRM 0.20.1
+- Major upgrade to Rails 6.1 / FatFreeCrm 0.20.1
